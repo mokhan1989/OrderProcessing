@@ -1,0 +1,47 @@
+[
+    {
+        "PartNumber": "ABC-1",
+        "PartGroup": "A",
+        "Price": 20.00
+    },
+    {
+        "PartNumber": "ABC-2",
+        "PartGroup": "A",
+        "Price": 15.00
+    },
+    {
+        "PartNumber": "ABC-3",
+        "PartGroup": "A",
+        "Price": 30.00
+    },
+    {
+        "PartNumber": "DEF-1",
+        "PartGroup": "B",
+        "Price": 22.00
+    },
+    {
+        "PartNumber": "DEF-2",
+        "PartGroup": "B",
+        "Price": 45.00
+    },
+    {
+        "PartNumber": "DEF-3",
+        "PartGroup": "B",
+        "Price": 12.00
+    },
+    {
+        "PartNumber": "XYZ-1",
+        "PartGroup": "C",
+        "Price": 18.00
+    },
+    {
+        "PartNumber": "XYZ-2",
+        "PartGroup": "C",
+        "Price": 52.00
+    },
+    {
+        "PartNumber": "XYZ-3",
+        "PartGroup": "C",
+        "Price": 5.00
+    }
+]

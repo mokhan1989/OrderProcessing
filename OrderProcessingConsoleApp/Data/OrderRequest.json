@@ -1,0 +1,32 @@
+{
+  "OrderAddress": {
+    "CompanyName": "Kingston Technology Europe Co LLP",
+    "AddressLine1": "Kingston Court",
+    "AddressLine2": "Brooklands Close",
+    "City": "Sunbury-on-Thames",
+    "PostCode": "TW16 7EP",
+    "Country": "United Kingdom"
+  },
+  "RequestedParts": [
+    {
+      "PartNumber": "ABC-1",
+      "Quantity": 10
+    },
+    {
+      "PartNumber": "DEF-3",
+      "Quantity": 2
+    },
+    {
+      "PartNumber": "XYZ-2",
+      "Quantity": 4
+    },
+    {
+      "PartNumber": "DEF-2",
+      "Quantity": 1
+    },
+    {
+      "PartNumber": "XYZ-3",
+      "Quantity": 20
+    }
+  ]
+}
